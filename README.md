@@ -1,4 +1,4 @@
-# Projeto de Cloud - Migração de toda aplicação e dados para um ambiente MultiCloud.
+# Ambiente MultiCloud: Projeto de Migração de Aplicação e Dados
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/79c55430-1284-4de6-ae8d-278515a5dcf3" width="700px" />
