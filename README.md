@@ -10,7 +10,7 @@ Durante a pandemia, uma rede de hotéis e resorts de luxo, que anteriormente rec
 
 No entanto, à medida que a demanda aumentava, o data center local, utilizado para gerenciar as operações, mostrou-se incapaz de suportar o crescimento. Isso resultou em lentidão no sistema, comprometendo a experiência dos hóspedes e atrasando processos como o check-in.
 
-Diante dessa situação, a rede tomou a decisão estratégica de migrar todas as aplicações e dados para a nuvem, buscando escalabilidade, desempenho aprimorado e continuidade operacional para atender à crescente demanda de forma eficiente.
+Diante dessa situação, a rede tomou a decisão estratégica de migrar toda a aplicação e dados para a nuvem, buscando escalabilidade, desempenho aprimorado e continuidade operacional para atender à crescente demanda de forma eficiente.
 
 # Solução
 
